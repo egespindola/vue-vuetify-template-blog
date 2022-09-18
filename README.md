@@ -1,4 +1,5 @@
-# componente-desafio
+### Projeto simples de tela Home de blog utilizando Vue e Vuetify
+
 
 ## Project setup
 ```
